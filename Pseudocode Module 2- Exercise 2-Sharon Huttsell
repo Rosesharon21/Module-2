@@ -1,0 +1,24 @@
+BEGIN
+    // Housekeeping - Set up variables
+    SET accountBalance = 0
+    SET overDrawnFee = 0
+    CONSTANT OVERDRAWN_FEE_PERCENTAGE = 0.01
+    CONSTANT OVERDRAWN_PENALTY = 5
+
+    // Input
+    PROMPT "Enter the account balance: "
+    READ accountBalance
+    PROMPT "Enter the number of times the account was overdrawn: "
+    READ overdrawnCount
+
+    // Process
+    SET overDrawnFee = (accountBalance * OVERDRAWN_FEE_PERCENTAGE) + (overdrawnCount * OVERDRAWN_PENALTY)
+    SET newAccountBalance = accountBalance - overDrawnFee
+
+    // Output
+    PRINT "The calculated fee is: $" + overDrawnFee
+    PRINT "The new account balance is: $" + newAccountBalance
+    PRINT "Thanks for using this program"
+
+    // End program
+END
