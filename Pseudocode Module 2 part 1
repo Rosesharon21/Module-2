@@ -1,0 +1,22 @@
+BEGIN
+    // Constants
+    CONSTANT CUBIC_INCHES_PER_CUBIC_FOOT = 1728
+
+    // Input
+    PROMPT "Enter the refrigerator model name: "
+    READ modelName
+    PROMPT "Enter the interior height in inches: "
+    READ height
+    PROMPT "Enter the interior width in inches: "
+    READ width
+    PROMPT "Enter the interior depth in inches: "
+    READ depth
+
+    // Process
+    SET volumeInCubicInches = height * width * depth
+    SET capacityInCubicFeet = volumeInCubicInches / CUBIC_INCHES_PER_CUBIC_FOOT
+
+    // Output
+    PRINT "Refrigerator Model: " + modelName
+    PRINT "Capacity in Cubic Feet: " + capacityInCubicFeet
+END
