@@ -1,0 +1,38 @@
+Debbugging Exercise:
+
+// This pseudocode is intended to determine whether students have
+// passed or failed a course; student needs to average 60 or
+// more on two tests. 
+start
+   Declarations
+      num firstTest
+      num secondTest
+      num average
+      num PASSING = 60
+   output "Enter first score or 0 to quit "
+   input firstTest
+   while firstTest <> 0
+      output "Enter second score "
+      input secondTest
+      average = (firstTest + secondTest) / 2
+      ouput "Average is ", average
+      if average >= PASSING then
+         output "Pass"
+      else
+         output "Fail"
+      endif
+      output "Enter first score or 0 to quit "
+      input firstTest
+   endwhile
+stop
+
+
+The corrections made:
+1. Initialization of firstTest. The issue was the firstTest statement is missing before the while loop. I added firstTest to initialize the loop condtion.
+
+2. Average calculation: the issue was average = firstTest + secondTest / 2 is incorrect due to operator precedence (division will occur before addition). The correction I made was I changed it to average = (firstTest + secondTest) / 2 to ensure proper calculation. 
+
+3. There was a typo on the word output on the line output "Average is", average. 
+
+4. Corrected the loop condition. The while loop condition used not equal to instead of <>.
+The correction changed not equal to to <> to match the correct pseudocode syntax.
