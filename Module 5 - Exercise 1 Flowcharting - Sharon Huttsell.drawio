@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="zEdWjT1AFZ2NEBqO-k1j">
+    <mxGraphModel dx="521" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-1" target="LTjGB10dwiEvvFQM7VR5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-1" value="Start Game" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-2" target="LTjGB10dwiEvvFQM7VR5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-2" target="LTjGB10dwiEvvFQM7VR5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-2" value="Categories&lt;div&gt;(5 Categories)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-4" target="LTjGB10dwiEvvFQM7VR5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-4" value="Questions&lt;div&gt;(5 Questions per category)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-6" target="LTjGB10dwiEvvFQM7VR5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-6" value="Point Values&lt;div&gt;(100 to 500 points)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-8" value="Final Jeopardy&lt;div&gt;(SIngle question)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-10" target="LTjGB10dwiEvvFQM7VR5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-10" target="LTjGB10dwiEvvFQM7VR5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-10" value="Introduction&lt;div&gt;(Explain rules)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-12" target="LTjGB10dwiEvvFQM7VR5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-12" value="Question Selection&lt;div&gt;(Choose category and point value)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-14" target="LTjGB10dwiEvvFQM7VR5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-14" value="Answering Questions&lt;div&gt;(Respond in the form of a question)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-16" target="LTjGB10dwiEvvFQM7VR5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-16" value="Scoring&lt;div&gt;(Track scores)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="650" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-18" value="Final Jeopardy&lt;div&gt;(Wager points and answer the final question)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="850" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-20" target="LTjGB10dwiEvvFQM7VR5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-20" target="LTjGB10dwiEvvFQM7VR5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-20" value="Question Time Limit&lt;div&gt;(30 seconds per question)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-22" value="Game Duration&lt;div&gt;(Estimate total game time)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-24" target="LTjGB10dwiEvvFQM7VR5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=default;fillColor=#FAE5C7;labelBackgroundColor=none;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-24" target="LTjGB10dwiEvvFQM7VR5-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-24" value="Moderator&lt;div&gt;(Manage game flow, read questions, keep score)&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-28" value="Contestants&lt;div&gt;(Answer questions and compete for points)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=default;fillColor=#FAE5C7;labelBackgroundColor=none;" edge="1" parent="1" source="LTjGB10dwiEvvFQM7VR5-33" target="LTjGB10dwiEvvFQM7VR5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-33" value="Announce Winner" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTjGB10dwiEvvFQM7VR5-35" value="End Game" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
